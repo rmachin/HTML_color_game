@@ -8,9 +8,15 @@ This game will help you to learn HTML Colors in hexadecimal (hex triplet) format
 
 This game only have 10 hex colors for practice.
 
-Technologies Used:
-* RUBY VERSION 2.4.1
-* RAILS VERSION 5.1.1
+
+### Technologies Used:
+
+* Ruby version 2.4.1
+
+* Rails version 5.1.1
+
 * ATOM
+
 * iTERM2
--
+
+...
